@@ -9,7 +9,7 @@ Before starting, make sure to read the following rules carefully!
 
 - Go through the `README.md` to understand the project.
 - Check the **Issues** section and claim an issue by commenting on it.
-- **WAIT** until a maintainer has assigned you to the issue (If issue is labelled as open-for-all, you may skip this and directly start working)
+- **WAIT** until a maintainer has assigned you to the issue (If issue is labelled as `open-for-all`, you may skip this and directly start working)
 - If something is unclear or no contribution guide exists for a specific feature, **clarify with the mentors on the OpenCode Discord.**
 
 ---
@@ -33,13 +33,13 @@ Before starting, make sure to read the following rules carefully!
 ### Step 2: Make Your Changes
 - Write clean, readable, and *well-documented* code.
 - Ensure your changes solve *only the issue you’re working on*.
-- AlWAYS Test your changes **locally** before you push.
+- ALWAYS Test your changes **locally** before you push.
 
 **NOTE** : Some issues may require working on a separate branch.
 For this, do the following: 
 
 ```bash
-git checkout -b <branch-name>/<short-description>
+git checkout -b <branch-name>
 ```
 
 > Follow the branch naming convention if mentioned in the issue. Without them, the PR will NOT be accepted.
@@ -97,12 +97,12 @@ Failure to follow these **WILL result in points not being awarded**, even if the
 - DO NOT open multiple PRs for the same issue.
 
 - Once all criteria are satisfied and your PR is approved, it will be merged!
-- A successful merge earns you points on the [Leaderboard](https://events.geekhaven.in/)
+- A successful merge earns you points on the [Leaderboard!](https://events.geekhaven.in/)
 
 ---
 
 ## Stuck?
-- Reach out to mentors **if you have some confusion, query**.
+- Reach out to mentors on Discord **if you have any confusion or queries**.
 - Be respectful and patient during reviews and merges.
 
 ---
